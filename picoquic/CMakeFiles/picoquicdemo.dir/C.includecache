@@ -104,14 +104,6 @@ inttypes.h
 picoquic.h
 /Users/lzq/工作/picoquic/picoquic/picoquic/picoquic.h
 
-/Users/lzq/工作/picoquic/picoquic/picoquicfirst/getopt.c
-getopt.h
-/Users/lzq/工作/picoquic/picoquic/picoquicfirst/getopt.h
-stdio.h
--
-string.h
--
-
 /Users/lzq/工作/picoquic/picoquic/picoquicfirst/getopt.h
 
 /Users/lzq/工作/picoquic/picoquic/picoquicfirst/picoquicdemo.c

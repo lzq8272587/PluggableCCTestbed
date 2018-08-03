@@ -1189,6 +1189,8 @@ int main(int argc, char** argv)
     uint64_t reset_seed_x[2];
     int mtu_max = 0;
 
+	printf("Start the program.\n");
+	
 #ifdef _WINDOWS
     WSADATA wsaData;
 #endif
