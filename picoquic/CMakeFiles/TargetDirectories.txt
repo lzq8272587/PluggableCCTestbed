@@ -1,0 +1,6 @@
+/Users/lzq/工作/picoquic/picoquic/CMakeFiles/rebuild_cache.dir
+/Users/lzq/工作/picoquic/picoquic/CMakeFiles/clangformat.dir
+/Users/lzq/工作/picoquic/picoquic/CMakeFiles/picoquicdemo.dir
+/Users/lzq/工作/picoquic/picoquic/CMakeFiles/edit_cache.dir
+/Users/lzq/工作/picoquic/picoquic/CMakeFiles/picoquic_ct.dir
+/Users/lzq/工作/picoquic/picoquic/CMakeFiles/picoquic-core.dir

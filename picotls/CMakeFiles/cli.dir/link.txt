@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -std=c99 -Wall -O2 -g   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cli.dir/t/cli.c.o CMakeFiles/cli.dir/lib/pembase64.c.o  -o cli libpicotls-openssl.a libpicotls-core.a /usr/local/lib/libssl.dylib /usr/local/lib/libcrypto.dylib 

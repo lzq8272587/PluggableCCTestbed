@@ -1,0 +1,9 @@
+/Users/lzq/工作/picoquic/picotls/CMakeFiles/edit_cache.dir
+/Users/lzq/工作/picoquic/picotls/CMakeFiles/test-openssl.t.dir
+/Users/lzq/工作/picoquic/picotls/CMakeFiles/rebuild_cache.dir
+/Users/lzq/工作/picoquic/picotls/CMakeFiles/check.dir
+/Users/lzq/工作/picoquic/picotls/CMakeFiles/picotls-core.dir
+/Users/lzq/工作/picoquic/picotls/CMakeFiles/cli.dir
+/Users/lzq/工作/picoquic/picotls/CMakeFiles/picotls-openssl.dir
+/Users/lzq/工作/picoquic/picotls/CMakeFiles/picotls-minicrypto.dir
+/Users/lzq/工作/picoquic/picotls/CMakeFiles/test-minicrypto.t.dir

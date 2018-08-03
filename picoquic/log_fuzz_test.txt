@@ -1,0 +1,1122 @@
+Log fuzz test #99
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 0
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x4cf0dfbe2500.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 1
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 2
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x010203040506d174090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 3
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3d2b9a7a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 4
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060714f46d7365020e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 5
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a59769...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 6
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x010203048b30b308090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 7
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 010203046c71c308
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 8
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    Unknown frame, type: 1
+Log fuzz test #99, packet 9
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x4a578f9a0aa7.
+    Unknown frame, type: 1
+Log fuzz test #99, packet 10
+    RESET STREAM 17, Error 0x000000bf, Offset 0x168d.
+    Unknown frame, type: 1
+Log fuzz test #99, packet 11
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x100c156c600.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 12
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405ack range error: largest=10202e947, range=20e05c3a474810a1
+Log fuzz test #99, packet 13
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x1a94a070000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 14
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b340d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 15
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a5b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 16
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6f3...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 17
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x1000000078d.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 18
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Unknown frame, type: 1
+Log fuzz test #99, packet 19
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    Unknown frame, type: 1
+Log fuzz test #99, packet 20
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x1000a54018b.
+    Unknown frame, type: 1
+Log fuzz test #99, packet 21
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 010203432b4029d4
+    Unknown frame, type: 1
+Log fuzz test #99, packet 22
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a330796055...
+Log fuzz test #99, packet 23
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 3 bytes
+    application_close, Error 0x7e33, Reason length 10179
+    Malformed application_close, requires 10184 bytes out of 110
+Log fuzz test #99, packet 24
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 25
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2dc8abba6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 26
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    Unknown frame, type: 1
+Log fuzz test #99, packet 27
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d3d9640...
+    Stream 1945556142910341121, offset 0, length 0, fin = 1: 
+    padding, 3 bytes
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 28
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 29
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 30
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0ee884...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 31
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a331185f2d...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 32
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 33
+    RESET STREAM 17, Error 0x00000001, Offset 0xa.
+    Unknown frame, type: 1
+Log fuzz test #99, packet 34
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 1 bytes
+    Unknown frame, type: 1
+Log fuzz test #99, packet 35
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    Unknown frame, type: 1
+Log fuzz test #99, packet 36
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 2 bytes
+    Stream 57, offset 247138609, length 121, fin = 1: 3233343536373839...
+Log fuzz test #99, packet 37
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 38
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405b30708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 39
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102f50405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 40
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    Unknown frame, type: 1
+Log fuzz test #99, packet 41
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x332ec00001000000.
+    padding, 2 bytes
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 42
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0109d81729dd0708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 43
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a321f849d9...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 44
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 733800193, Error 0x000004c0, Offset 0x0.
+    RESET STREAM 0, Error 0x00000000, Offset 0x0.
+    padding, 1 bytes
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 45
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x74e2c17a0750000.
+    padding, 2 bytes
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 46
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405a723dcec74e60c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 47
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405486f56526a39440d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 48
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 328563618, offset 0, length 13, fin = 0: a3a4a5a6a7a8a9aa...
+Log fuzz test #99, packet 49
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 50
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 15cb19e8030400-15cb19e8030405, 15cb19e80303fe, 15cb19e80303eb-15cb19e80303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 51
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x0000336c, Offset 0x36.
+    Unknown frame, type: 1
+Log fuzz test #99, packet 52
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+Log fuzz test #99, packet 53
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x19de0812997.
+    Unknown frame, type: 1
+Log fuzz test #99, packet 54
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 4 bytes
+    Unknown frame, type: 1
+Log fuzz test #99, packet 55
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 56
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405bc0708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 57
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    Unknown frame, type: 1
+Log fuzz test #99, packet 58
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a022777094a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 59
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0be193c2db10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 60
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x01020304050627c9f9a70b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 61
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 01026c4439dfd608
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 62
+    Unknown frame, type: 3314205900508889088
+Log fuzz test #99, packet 63
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 15376, Error 0x0000638f, Offset 0xb.
+    Unknown frame, type: 1
+Log fuzz test #99, packet 64
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405b50708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 65
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    Stream 683804977, offset 0, length 50, fin = 0: 3334353637383900...
+    RESET STREAM 2, Error 0x00000304, Offset 0x5.
+    Unknown frame, type: 1
+Log fuzz test #99, packet 66
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1615906756788256678, offset 0, length 9, fin = 0: a7a8a9aaabacadae...
+Log fuzz test #99, packet 67
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 68
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 2105503843955848759
+    Malformed connection_close, requires 2105503843955848770 bytes out of 126
+Log fuzz test #99, packet 69
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: b89834549d2a0708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 70
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 2 bytes
+    Unknown frame, type: 1
+Log fuzz test #99, packet 71
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x01020304050607089afe110c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 72
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 276014983, Error 0x000094e6, Offset 0x1201.
+    padding, 5 bytes
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 73
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303f2-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 74
+    RESET STREAM 17, Error 0x00000011, Offset 0x0.
+    Unknown frame, type: 1
+Log fuzz test #99, packet 75
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102a75ed6a75608
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 76
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    Unknown frame, type: 1
+Log fuzz test #99, packet 77
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x229f5a83ff00.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 78
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a44f287f...
+Log fuzz test #99, packet 79
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), eb8b030400-eb8b030405, eb8b0303fe, eb8b0303eb-eb8b0303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 80
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 81
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 82
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+Log fuzz test #99, packet 83
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 84
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a571a2a3a4a5a6a7...
+Log fuzz test #99, packet 85
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a38f4000c6...
+Log fuzz test #99, packet 86
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    Unknown frame, type: 1
+Log fuzz test #99, packet 87
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 88
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+Log fuzz test #99, packet 89
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000068, Offset 0x6d9a0b.
+    Unknown frame, type: 1
+Log fuzz test #99, packet 90
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    Unknown frame, type: 1
+Log fuzz test #99, packet 91
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 92
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=402980864), 1027f7a99-1027f7a9e, 1027f7a75-1027f7a8b, 1027f7672-1027f7a72, e1ddd3bd-1027f7660, 948e8269-bd382d14, 67e0d3aa-67e0d3b8, 67e0d3a5-67e0d3a7, 67e0d39c-67e0d3a0, 67e0d38f-67e0d395, 67e0d37e-67e0d386ack range error: largest=67e0d378, range=10000000001
+Log fuzz test #99, packet 93
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 01020304b76952bd
+    Unknown frame, type: 1
+Log fuzz test #99, packet 94
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x86a5480ac22a0708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 95
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=22), 1028cdb51-1028cdb52, 1028cd73f-1028cd74f, bd458df3-e1eb349a, 67ee3497-949be346, 67ee3486-67ee3487, 67ee347f-67ee3482, 67ee3474-67ee3479, 67ee3465-67ee346c, 67ee3457-67ee345b
+    ack gap error: largest=67ee345b, range=5, gap=1099511627777
+Log fuzz test #99, packet 96
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0xdaeed4820000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 97
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e7eeb...
+    Unknown frame, type: 1
+Log fuzz test #99, packet 98
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a044eeb88194a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+Log fuzz test #99, packet 99
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    padding, 3 bytes
+    connection_close, Error 0xcfff, Reason length 9
+    padding, 6 bytes
+    NEW TOKEN[17]: 0x0102030405060708090a0b0c0d0e0f10...
+    RESET STREAM 17, Error 0x00000001, Offset 0x1.
+    MAX DATA: 0x10000000000.
+    ACK (nb=2), 102030400-102030405, 1020303fe, 1020303eb-1020303f7
+    Stream 1, offset 1024, length 16, fin = 0: a0a1a2a3a4a5a6a7...
+    path_challenge: 0102030405060708
+    MAX DATA: 0x10000000000.
+    Stream 1, offset 0, length 16, fin = 0: a0a1a2a3a4a5a6a7...

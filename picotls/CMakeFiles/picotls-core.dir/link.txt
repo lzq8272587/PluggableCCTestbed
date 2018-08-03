@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libpicotls-core.a  CMakeFiles/picotls-core.dir/lib/picotls.c.o CMakeFiles/picotls-core.dir/lib/pembase64.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libpicotls-core.a
